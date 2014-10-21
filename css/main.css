@@ -82,8 +82,9 @@ p {
 }
 @media(max-width: 800px){
 	body{
-		background: green;
+		background: rgb(94, 255, 94);
 	}
+	
 	
 }
 @media(max-width: 600px){
